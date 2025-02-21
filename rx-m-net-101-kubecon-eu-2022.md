@@ -80,7 +80,7 @@ to stand up a Kubernetes cluster. Run the RX-M K8s install script as follows:
 > N.B. This will take a minute or two.
 
 ```
-ubuntu@ip-172-31-24-84:~$ curl https://raw.githubusercontent.com/RX-M/classfiles/master/k8s-no-cni.sh | sh
+ubuntu@ip-172-31-24-84:~$ sudo bash kubernetes-install.sh
 
 
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
